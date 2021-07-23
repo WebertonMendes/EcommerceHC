@@ -17,7 +17,7 @@
   },
   "scripts": {
     "start": "concurrently \"react-scripts start\" \"json-server src/services/server.json -p 3333\"",
-    "build": "react-scripts build",
+    "build": "concurrently \"react-scripts build\" \"json-server src/services/server.json -p 3333\"",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
