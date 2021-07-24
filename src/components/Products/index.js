@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-import api from "../../services/api";
+import api from "../../../api/";
 
 import bannerProduct from "../../assets/images/banner-product.jpg";
 import BasketIcon from "../../assets/icons/basket.svg";
