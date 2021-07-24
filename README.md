@@ -1,6 +1,6 @@
 ##### Projeto desenvolvido durante o Hiring Coders #2.
 
-Projeto Online: <a href="https://landing-page-hiring-coders-2.vercel.app/" target="_blank">Landing Page</a>
+Projeto Online: <a href="https://ecommerce-hc-lovat.vercel.app/" target="_blank">Ecommerce</a>
 
 ### Projeto desenvolvido com:
 
@@ -29,14 +29,16 @@ $ yarn start
 
 <br>
 
-### Print da Aplicação
+**Funcionalidades Implementadas**
 
-> Página Home<br> > ![](https://github.com/WebertonMendes/LandingPageHC/blob/main/src/assets/LandingPageHC.png?raw=true)<br>
+- Cadastro do Usuário
+- Login do Usuário
+- Carrinho de Compra com a soma dos produtos
+- Página Home e Quem Somos
 
-> Página Produtos<br> > ![]()<br>
+Ambos os dados ficam armazenados no local storage
+Os dados dos produtos estão armazenados em um arquivo JSON e os dados são consumidos de uma API FAKE.
 
-> Página Quem Somos<br> > ![]()<br>
+<br>
 
-> Página Carrinho<br> > ![]()<br>
-
-> Página Cadastro<br> > ![]()<br>
+> ![](https://github.com/WebertonMendes/LandingPageHC/blob/main/src/assets/LandingPageHC.png?raw=true)
