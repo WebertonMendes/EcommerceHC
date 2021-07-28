@@ -42,3 +42,8 @@ Os dados dos produtos estão armazenados em um arquivo JSON e os dados são cons
 <br>
 
 > ![](https://github.com/WebertonMendes/LandingPageHC/blob/main/src/assets/LandingPageHC.png?raw=true)
+
+<br>
+<br>
+
+> ![](https://github.com/WebertonMendes/EcommerceHC/blob/main/src/assets/EcommerceHC.png?raw=true)
