@@ -12,7 +12,7 @@ Projeto Online: <a href="https://ecommerce-hc-lovat.vercel.app/" target="_blank"
 **1º Passo:** Download do repositório:
 
 ```sh
-$ git clone "https://github.com/WebertonMendes/Foodfy.git"
+$ git clone "https://github.com/WebertonMendes/EcommerceHC.git"
 ```
 
 **2º Passo:** Executar a instalação dos pacotes:
